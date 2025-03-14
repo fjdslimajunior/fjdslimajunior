@@ -2,7 +2,6 @@
 
 Aqui estão testes, processos e aplicações que desenlvi com e estou desenvolvendo em: 
 
-HTML <img src="https://simpleicons.org/icons/html5.svg">
 
 <!--
 **fjdslimajunior/fjdslimajunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
