@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Aqui estão testes, processos e aplicações que desenlvi e estou desenvolvendo em: 
+Aqui estão testes, processos e aplicações que desenlvolvi e estou desenvolvendo em: 
 
 
 <!--
