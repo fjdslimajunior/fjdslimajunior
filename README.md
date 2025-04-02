@@ -2,6 +2,12 @@
 
 Aqui estão testes, processos e aplicações que desenlvolvi e estou desenvolvendo em: 
 
+<div align="left">
+  <img height="203px" src="https://github-readme-stats.vercel.app/api?username=laisfrr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /><span>  </span>
+  <img height="203px" src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laisfrr&theme=radical">
+</div>
+<br>
+<hr/>
 
 <!--
 **fjdslimajunior/fjdslimajunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
