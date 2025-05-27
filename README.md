@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is Junior and I'm a Junior Programmer, from Brazil. </h2>
+<h2 align="center">Hi 👋! My name is Junior and I'm a Junior Programmer, from Brazil. </h2>
 
 ###
 
